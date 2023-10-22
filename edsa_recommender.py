@@ -31,7 +31,7 @@ import streamlit as st
 # Data handling dependencies
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from pathlib import Path
 from sklearn.metrics.pairwise import cosine_similarity
 from PIL import Image
